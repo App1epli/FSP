@@ -2,12 +2,12 @@
 // @name         FSP
 // @namespace    https://wsp.kbtu.kz/
 // @version      2.0
-// @description  Calm pastel-pink interface with accessible, natural buttons.
+// @description  Calm pastel-pink interface with accessible
 // @match        https://wsp.kbtu.kz/*
 // @grant        none
 // @run-at       document-idle
-// @downloadURL  https://raw.githubusercontent.com/App1epli/FSP/main/FSP.js
-// @updateURL    https://raw.githubusercontent.com/App1epli/FSP/main/FSP.js
+// @downloadURL  https://raw.githubusercontent.com/App1epli/FSP/main/FSP.user.js
+// @updateURL    https://raw.githubusercontent.com/App1epli/FSP/main/FSP.user.js
 // @supportURL   https://github.com/App1epli/FSP/issues
 // ==/UserScript==
 
