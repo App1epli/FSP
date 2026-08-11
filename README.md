@@ -2,7 +2,7 @@
 
 Femboy тема для настоящих мужчин и женщин [WSP KBTU](https://wsp.kbtu.kz/): обновлённые кнопки, "удобная" навигация, мягкие уведомления и шрифты
 
-[![Установить в Tampermonkey](https://img.shields.io/badge/Tampermonkey-Установить-00485B?logo=tampermonkey)](https://raw.githubusercontent.com/App1epli/FSP/main/FSP.js)
+[![Установить в Tampermonkey](https://img.shields.io/badge/Tampermonkey-Установить-00485B?logo=tampermonkey)](https://github.com/App1epli/FSP/blob/main/FSP.js)
 
 ## Установка
 
