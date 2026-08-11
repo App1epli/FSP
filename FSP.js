@@ -6,8 +6,8 @@
 // @match        https://wsp.kbtu.kz/*
 // @grant        none
 // @run-at       document-idle
-// @downloadURL  https://raw.githubusercontent.com/App1epli/FSP/main/kbtu-pastel.user.js
-// @updateURL    https://raw.githubusercontent.com/App1epli/FSP/main/kbtu-pastel.user.js
+// @downloadURL  https://raw.githubusercontent.com/App1epli/FSP/main/FSP.js
+// @updateURL    https://raw.githubusercontent.com/App1epli/FSP/main/FSP.js
 // @supportURL   https://github.com/App1epli/FSP/issues
 // ==/UserScript==
 
