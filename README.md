@@ -60,7 +60,7 @@ Femboy тема для настоящих мужчин и женщин [WSP KBTU
 **6) Активируйте кнопку РАЗРЕШИТЬ ПОЛЬЗОВАТЕЛЬСКИЕ СКРИПТЫ**
 <div align="left">
 <kbd>
-    <img src="https://github.com/App1epli/FSP/blob/main/Guide/5.png" width="500"/>
+    <img src="https://github.com/App1epli/FSP/blob/main/Guide/6.png" width="500"/>
 </kbd>
 </div>
 
