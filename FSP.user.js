@@ -211,7 +211,7 @@
         .kbtu-news-header-image {
             position: absolute !important;
             top: -94px !important;
-            left: 24px !important;
+            left: 0px !important;
             z-index: 4 !important;
             width: min(380px, 44vw) !important;
             max-height: 140px !important;
